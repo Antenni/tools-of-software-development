@@ -10,3 +10,4 @@ Toothpaste
 Yoghurt
 Cheese
 Tea
+Coffee
